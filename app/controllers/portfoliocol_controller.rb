@@ -1,0 +1,2 @@
+class PortfoliocolController < ApplicationController
+end
